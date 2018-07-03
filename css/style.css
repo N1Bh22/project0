@@ -1,8 +1,13 @@
-.row {
+nav {
   background-color: lightblue;
   font-family: arial, sans-serif;
   text-align: center;
-  
+  font-size: 60px;
+  color: white;
+
+}
+section {
+  align-items: center;
 }
 table {
   border: 2px solid lightgray;
@@ -20,13 +25,11 @@ th {
 }
 td {
   border: 1px solid lightgray;
-  text-align: center;
   padding: 3px;
 
 }
 img {
   width: 20%;
-  text-align: center;
 }
 
 button  {
