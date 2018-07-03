@@ -1,3 +1,22 @@
+@media (min-width: 500px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+@media (max-width: 500px) {
+  body {
+    background-color: lightblue;
+  }
+  nav {
+    font-size: 20px;
+  }
+}
+
+@media print {
+  .screen-only {
+    display: none;
+  }
+}
 nav {
   background-color: lightblue;
   font-family: arial, sans-serif;
