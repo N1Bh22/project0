@@ -1,0 +1,30 @@
+table {
+  border: 2px solid lightgray;
+  border-collapse: collapse;
+  font-family: arial, sans-serif;
+}
+th {
+  background-color: lightgray;
+  color:white;
+  border: 1px;
+  font-size: 25px;
+  border: 1px solid lightgray;
+  padding: 3px;
+
+}
+td {
+  border: 1px solid lightgray;
+  text-align: center;
+  padding: 3px;
+
+}
+img {
+  width: 20%;
+  text-align: center;
+}
+
+button  {
+  color: white;
+  background-color: darkgreen;
+  font-family: arial, sans-serif;
+}
